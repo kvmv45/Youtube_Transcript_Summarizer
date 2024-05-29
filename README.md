@@ -19,24 +19,7 @@ Streamlit
 youtube_transcript_api
 python-dotenv
 google-generativeai
-Installation
 
-**Clone the repository:**
-
-git clone https://github.com/your-username/youtube-transcript-to-detailed-notes.git
-cd youtube-transcript-to-detailed-notes
-**Install the required packages:**
-
-pip install -r requirements.txt
-Create a .env file in the root directory with your Google API key:
-
-GOOGLE_API_KEY=your_google_api_key
-Usage
-**Run the application:**
-
-streamlit run app.py
-Open your browser and navigate to http://localhost:8501.
-Enter the YouTube video link and click "Get Detailed Notes" to see the summary.
 
 **Example**
 Input: Provide the YouTube video link.
